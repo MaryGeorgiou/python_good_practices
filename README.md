@@ -17,5 +17,5 @@ Install the following:
 To get this code:
 1. Install git (https://www.atlassian.com/git/tutorials/install-git)
 2. run ```git clone https://github.com/MaryGeorgiou/python_good_practices.git```
-or
-download it as zip (https://github.com/MaryGeorgiou/python_good_practices/archive/master.zip)
+
+or you can download it as zip (https://github.com/MaryGeorgiou/python_good_practices/archive/master.zip)
