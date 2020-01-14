@@ -12,3 +12,10 @@ Install the following:
 1. Python3 (https://www.python.org/downloads/)
 2. Jupyter lab (https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 3. Jupyter lab code formatter (https://jupyterlab-code-formatter.readthedocs.io/en/latest/index.html)
+
+
+To get this code:
+1. Install git (https://www.atlassian.com/git/tutorials/install-git)
+2. run ```git clone https://github.com/MaryGeorgiou/python_good_practices.git```
+or
+download it as zip (https://github.com/MaryGeorgiou/python_good_practices/archive/master.zip)
